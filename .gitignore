@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ruff_cache/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+id_rsa*
+id_ed25519*
